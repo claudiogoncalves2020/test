@@ -6,8 +6,8 @@ Welcome to my profile , find out more about me :)
   - JavaScript
   - Css
 
-#To do list
-- [ ] Live Sessions
+# To do list
+-[ ] Live Sessions
 - [ ] Home Work
 - [ ] Project
 
