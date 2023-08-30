@@ -1,5 +1,5 @@
 # Owerview
-Click [this link[(http://goolge.com) to go to goolge
+Click [this link](http://goolge.com) to go to goolge
 
 - Go to [ Topic 1 ](#topic-1)
 - Go to [ Topic 2 ](#topic-2)
