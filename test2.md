@@ -1,5 +1,5 @@
 # Owerview
-Click [this link] to go to goolge
+Click this link to go to goolge
 
 - Go to [ Topic 1 ](#topic-1)
 - Go to [ Topic 2 ](#topic-2)
